@@ -1,3 +1,3 @@
 <?php
-echo " this is view";
-echo "asdfasdfsd";
+echo "<br />this is view";
+
