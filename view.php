@@ -1,2 +1,2 @@
 <?php
-echo " this is view";
+echo "<br />this is view";
